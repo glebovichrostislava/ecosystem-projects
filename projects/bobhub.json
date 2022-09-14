@@ -1,0 +1,18 @@
+{
+  "name": "Bobhub",
+  "slug": "bobhub",
+  "date": "2022-03-21",
+  "highlight": "Bobhub oracle is optimized for storing and efficiently updating a significant amount of on-chain price quotes.",
+  "logo": "/img/bobhub.png",
+  "tags":  [ "oracle", "multi-chain"],
+  "status": "live",
+  "website": "https://bobhub.xyz",
+  "twitter": "https://twitter.com/BobhubOracles",
+  "summary": "Bobhub is an on-chain oracle optimized for storing and efficiently updating a significant amount of on-chain price quotes. The logarithmic delta encoding is applied to price updates. Together with batched updates, this yields impressive network fee savings. First alpha version of Bobhub started quoting feeds on three networks, BSC, Gnosis chain and Fantom. Currently a beta version of the oracle quotes 1000+ assets on 22 different networks. Moreover, there's 11 different types of assets from classic stablecoins to 3Pool LP tokens (3crv).",
+  "telegram": "",
+  "discord": "",
+  "docs": "",
+  "github": "",
+  "token": "",
+  "cmc": ""
+}
